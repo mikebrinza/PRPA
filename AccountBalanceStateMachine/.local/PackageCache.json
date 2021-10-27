@@ -28,6 +28,49 @@
     },
     {
       "Package": {
+        "Id": "UiPath.Form.Activities",
+        "Version": "1.7.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\mcred\\.nuget\\packages\\castle.core/4.3.1\\lib/net45/Castle.Core.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\namedpipewrapper/1.5.0\\lib/net40/NamedPipeWrapper.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\system.runtime.compilerservices.unsafe/4.7.1\\lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\system.threading.tasks.extensions/4.5.4\\lib/net461/System.Threading.Tasks.Extensions.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/CefSharp.BrowserSubprocess.Core.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/CefSharp.Core.Runtime.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/CefSharp.Core.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/CefSharp.Wpf.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/CefSharp.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/UiPath.CefSharpBundle.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/chrome_elf.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/d3dcompiler_47.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/libEGL.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/libGLESv2.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/libcef.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/msvcp140.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/swiftshader/libEGL.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/swiftshader/libGLESv2.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/vcruntime140.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities/1.7.1\\lib/net461/UiPath.Callout.Activity.Design.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities/1.7.1\\lib/net461/UiPath.Callout.Activity.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities/1.7.1\\lib/net461/UiPath.Callout.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities/1.7.1\\lib/net461/UiPath.Form.Activities.Design.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities/1.7.1\\lib/net461/UiPath.Form.Activities.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary/1.7.1\\lib/net461/UiPath.Form.ActivityLibrary.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary/1.7.1\\lib/net461/UiPath.Form.Host.Local.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary/1.7.1\\lib/net461/UiPath.Form.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary/1.7.1\\lib/net461/UiPath.OutOfProcessUi.Common.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary.contracts/1.7.0\\lib/net461/UiPath.Form.ActivityLibrary.Contracts.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.telemetry.client/1.5.3\\lib/net461/TelemetryClient.dll"
+      ],
+      "Path": "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities\\1.7.1"
+    },
+    {
+      "Package": {
         "Id": "UiPath.Mail.Activities",
         "Version": "1.12.2"
       },
@@ -178,49 +221,6 @@
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision/3.1.4\\lib/net461/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.3"
-    },
-    {
-      "Package": {
-        "Id": "UiPath.Form.Activities",
-        "Version": "1.7.1"
-      },
-      "Assemblies": [
-        "C:\\Users\\mcred\\.nuget\\packages\\castle.core/4.3.1\\lib/net45/Castle.Core.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\namedpipewrapper/1.5.0\\lib/net40/NamedPipeWrapper.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\system.runtime.compilerservices.unsafe/4.7.1\\lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\system.threading.tasks.extensions/4.5.4\\lib/net461/System.Threading.Tasks.Extensions.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/CefSharp.BrowserSubprocess.Core.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/CefSharp.Core.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/CefSharp.Core.Runtime.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/CefSharp.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/CefSharp.Wpf.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/chrome_elf.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/d3dcompiler_47.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/libcef.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/libEGL.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/libGLESv2.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/msvcp140.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/UiPath.CefSharpBundle.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/vcruntime140.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/swiftshader/libEGL.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/swiftshader/libGLESv2.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities/1.7.1\\lib/net461/UiPath.Callout.Activity.Design.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities/1.7.1\\lib/net461/UiPath.Callout.Activity.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities/1.7.1\\lib/net461/UiPath.Callout.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities/1.7.1\\lib/net461/UiPath.Form.Activities.Design.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities/1.7.1\\lib/net461/UiPath.Form.Activities.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary/1.7.1\\lib/net461/UiPath.Form.ActivityLibrary.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary/1.7.1\\lib/net461/UiPath.Form.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary/1.7.1\\lib/net461/UiPath.Form.Host.Local.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary/1.7.1\\lib/net461/UiPath.OutOfProcessUi.Common.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary.contracts/1.7.0\\lib/net461/UiPath.Form.ActivityLibrary.Contracts.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.telemetry.client/1.5.3\\lib/net461/TelemetryClient.dll"
-      ],
-      "Path": "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities\\1.7.1"
     }
   ],
   "Conflicts": [],
@@ -2300,10 +2300,10 @@
         "Version": "1.6.0"
       },
       "Assemblies": [
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib\\net452\\CefSharp.Core.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib\\net452\\CefSharp.Core.Runtime.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib\\net452\\CefSharp.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib\\net452\\CefSharp.Wpf.dll"
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib\\net452\\CefSharp.Core.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib\\net452\\CefSharp.Wpf.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib\\net452\\CefSharp.dll"
       ],
       "Path": "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0"
     },
@@ -2354,8 +2354,8 @@
       },
       "Assemblies": [
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary\\1.7.1\\lib\\net461\\UiPath.Form.ActivityLibrary.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary\\1.7.1\\lib\\net461\\UiPath.Form.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary\\1.7.1\\lib\\net461\\UiPath.Form.Host.Local.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary\\1.7.1\\lib\\net461\\UiPath.Form.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary\\1.7.1\\lib\\net461\\UiPath.OutOfProcessUi.Common.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary\\1.7.1\\lib\\net461\\UiPath.OutOfProcessUi.Host.WCF.exe"
       ],

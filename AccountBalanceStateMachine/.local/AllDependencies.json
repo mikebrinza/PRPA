@@ -8589,9 +8589,9 @@
     "restore": {
       "projectUniqueName": "BlankProcess",
       "projectName": "BlankProcess",
-      "projectPath": "D:\\Projects\\PRPA\\AccountBalanceStateMachine\\BlankProcess\\.local",
+      "projectPath": "D:\\Projects\\PRPA\\AccountBalanceStateMachine\\.local",
       "packagesPath": "C:\\Users\\mcred\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\PRPA\\AccountBalanceStateMachine\\BlankProcess\\.local"
+      "outputPath": "D:\\Projects\\PRPA\\AccountBalanceStateMachine\\.local"
     },
     "frameworks": {
       "net461": {

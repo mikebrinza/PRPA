@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FsyES17Vbva0INgk/NSmDlQ37dQkv+08K3t5SNO5WwxxeaQzH2I4AZRMVwMWCQGKOsafG8sybq/ANZpkQbdwHw==",
+  "dgSpecHash": "6ZKweLJYQRfjBJRjntqDuPJsZl7dMPYa3QkVBdu3RReHlXM6K/JFcPzR1o+1yV03YjR1U1RnqOjJluAIqQX8DQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\PRPA\\AccountBalanceStateMachine\\BlankProcess\\.local\\",
+  "projectFilePath": "D:\\Projects\\PRPA\\AccountBalanceStateMachine\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\mcred\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
     "C:\\Users\\mcred\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
