@@ -10,18 +10,18 @@
         "C:\\Users\\mcred\\.nuget\\packages\\csvhelper/16.0.0\\lib/net45/CsvHelper.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\documentformat.openxml/2.5.0\\lib/DocumentFormat.OpenXml.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\microsoft.visualstudio.ole.interop/16.7.30328.74\\lib/net45/Microsoft.VisualStudio.OLE.Interop.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OOXML.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXml4Net.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\npoi/2.4.1\\lib/net45/NPOI.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\sharpziplib/1.2.0\\lib/net45/ICSharpCode.SharpZipLib.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.excel.activities/2.11.4\\lib/net461/Microsoft.Office.Interop.Excel.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.excel.activities/2.11.4\\lib/net461/Microsoft.Vbe.Interop.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.excel.activities/2.11.4\\lib/net461/Office.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.excel.activities/2.11.4\\lib/net461/UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.excel.activities/2.11.4\\lib/net461/UiPath.Excel.Activities.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.excel.activities/2.11.4\\lib/net461/UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.excel.activities/2.11.4\\lib/net461/UiPath.Excel.Activities.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.excel.activities/2.11.4\\lib/net461/UiPath.Excel.dll"
       ],
       "Path": "C:\\Users\\mcred\\.nuget\\packages\\uipath.excel.activities\\2.11.4"
@@ -32,10 +32,10 @@
         "Version": "1.12.2"
       },
       "Assemblies": [
-        "C:\\Users\\mcred\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.PlatformServices.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\google.apis/1.43.0\\lib/net45/Google.Apis.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\google.apis.auth/1.43.0\\lib/net45/Google.Apis.Auth.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\google.apis.calendar.v3/1.43.0.1872\\lib/net45/Google.Apis.Calendar.v3.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\google.apis.core/1.43.0\\lib/net45/Google.Apis.Core.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\google.apis.gmail.v1/1.43.0.1859\\lib/net45/Google.Apis.Gmail.v1.dll",
@@ -75,8 +75,8 @@
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.mail.activities/1.12.2\\lib/net461/Microsoft.Office.Interop.Word.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.mail.activities/1.12.2\\lib/net461/Office.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.mail.activities/1.12.2\\lib/net461/UiPath.Mail.Activities.Design.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.mail.activities/1.12.2\\lib/net461/UiPath.Mail.Activities.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.mail.activities/1.12.2\\lib/net461/UiPath.Mail.Activities.Package.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.mail.activities/1.12.2\\lib/net461/UiPath.Mail.Activities.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.mail.activities/1.12.2\\lib/net461/UiPath.Mail.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.mail.activities/1.12.2\\lib/net461/UiPath.MainSessionServer.Shared.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.platform/21.10.0\\lib/net461/UiPath.Platform.dll",
@@ -164,24 +164,72 @@
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities/21.10.3\\lib/net461/UiPath.CV.Activities.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities/21.10.3\\lib/net461/UiPath.CV.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities/21.10.3\\lib/net461/UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities/21.10.3\\lib/net461/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities/21.10.3\\lib/net461/UiPath.UIAutomationCore.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities/21.10.3\\lib/net461/UiPath.UIAutomationNext.Activities.Design.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities/21.10.3\\lib/net461/UiPath.UIAutomationNext.Activities.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities/21.10.3\\lib/net461/UiPath.UIAutomationNext.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities/21.10.3\\lib/net461/UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities/21.10.3\\lib/net461/UiPath.Wizards.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision/3.1.4\\lib/net461/UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision/3.1.4\\lib/net461/UiPath.Vision.Core.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision/3.1.4\\lib/net461/UiPath.Vision.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision/3.1.4\\lib/net461/UiPath.Vision.GoogleCloud.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision/3.1.4\\lib/net461/UiPath.Vision.Microsoft.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision/3.1.4\\lib/net461/UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision/3.1.4\\lib/net461/UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision/3.1.4\\lib/net461/UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.3"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Form.Activities",
+        "Version": "1.7.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\mcred\\.nuget\\packages\\castle.core/4.3.1\\lib/net45/Castle.Core.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\namedpipewrapper/1.5.0\\lib/net40/NamedPipeWrapper.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\newtonsoft.json/11.0.2\\lib/net45/Newtonsoft.Json.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\system.io.abstractions/3.0.10\\lib/net40/System.IO.Abstractions.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\system.runtime.compilerservices.unsafe/4.7.1\\lib/net461/System.Runtime.CompilerServices.Unsafe.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\system.threading.tasks.dataflow/5.0.0\\lib/net461/System.Threading.Tasks.Dataflow.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\system.threading.tasks.extensions/4.5.4\\lib/net461/System.Threading.Tasks.Extensions.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\system.valuetuple/4.5.0\\lib/net461/System.ValueTuple.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/CefSharp.BrowserSubprocess.Core.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/CefSharp.Core.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/CefSharp.Core.Runtime.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/CefSharp.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/CefSharp.Wpf.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/chrome_elf.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/d3dcompiler_47.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/libcef.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/libEGL.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/libGLESv2.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/msvcp140.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/UiPath.CefSharpBundle.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/vcruntime140.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/swiftshader/libEGL.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle/1.6.0\\lib/net452/swiftshader/libGLESv2.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities/1.7.1\\lib/net461/UiPath.Callout.Activity.Design.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities/1.7.1\\lib/net461/UiPath.Callout.Activity.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities/1.7.1\\lib/net461/UiPath.Callout.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities/1.7.1\\lib/net461/UiPath.Form.Activities.Design.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities/1.7.1\\lib/net461/UiPath.Form.Activities.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary/1.7.1\\lib/net461/UiPath.Form.ActivityLibrary.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary/1.7.1\\lib/net461/UiPath.Form.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary/1.7.1\\lib/net461/UiPath.Form.Host.Local.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary/1.7.1\\lib/net461/UiPath.OutOfProcessUi.Common.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary.contracts/1.7.0\\lib/net461/UiPath.Form.ActivityLibrary.Contracts.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.telemetry.client/1.5.3\\lib/net461/TelemetryClient.dll"
+      ],
+      "Path": "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities\\1.7.1"
     }
   ],
   "Conflicts": [],
   "ResolvedDependencies": {
+    "Castle.Core": {
+      "Id": "Castle.Core",
+      "Version": "4.3.1",
+      "Dependencies": []
+    },
     "ClosedXML": {
       "Id": "ClosedXML",
       "Version": "0.87.1",
@@ -719,6 +767,11 @@
         }
       ]
     },
+    "NamedPipeWrapper": {
+      "Id": "NamedPipeWrapper",
+      "Version": "1.5.0",
+      "Dependencies": []
+    },
     "Newtonsoft.Json": {
       "Id": "Newtonsoft.Json",
       "Version": "11.0.2",
@@ -1067,6 +1120,11 @@
         }
       ]
     },
+    "UiPath.CefSharpBundle": {
+      "Id": "UiPath.CefSharpBundle",
+      "Version": "1.6.0",
+      "Dependencies": []
+    },
     "UiPath.ConnectionClient": {
       "Id": "UiPath.ConnectionClient",
       "Version": "1.0.0-20210921.1",
@@ -1114,6 +1172,71 @@
           "Item2": "[2.4.1, )"
         }
       ]
+    },
+    "UiPath.Form.Activities": {
+      "Id": "UiPath.Form.Activities",
+      "Version": "1.7.1",
+      "Dependencies": [
+        {
+          "Item1": "System.Runtime.CompilerServices.Unsafe",
+          "Item2": "[4.5.2, )"
+        },
+        {
+          "Item1": "UiPath.FormActivityLibrary",
+          "Item2": "[1.7.1, )"
+        },
+        {
+          "Item1": "Castle.Core",
+          "Item2": "[4.3.1, )"
+        },
+        {
+          "Item1": "System.Threading.Tasks.Extensions",
+          "Item2": "[4.5.1, )"
+        },
+        {
+          "Item1": "System.IO.Abstractions",
+          "Item2": "[3.0.10, )"
+        },
+        {
+          "Item1": "UiPath.Telemetry.Client",
+          "Item2": "[1.5.3, )"
+        }
+      ]
+    },
+    "UiPath.FormActivityLibrary": {
+      "Id": "UiPath.FormActivityLibrary",
+      "Version": "1.7.1",
+      "Dependencies": [
+        {
+          "Item1": "Newtonsoft.Json",
+          "Item2": "[11.0.2, )"
+        },
+        {
+          "Item1": "UiPath.FormActivityLibrary.Contracts",
+          "Item2": "[1.7.0, )"
+        },
+        {
+          "Item1": "NamedPipeWrapper",
+          "Item2": "[1.5.0, )"
+        },
+        {
+          "Item1": "System.Runtime.CompilerServices.Unsafe",
+          "Item2": "[4.5.2, )"
+        },
+        {
+          "Item1": "System.ValueTuple",
+          "Item2": "[4.3.0, )"
+        },
+        {
+          "Item1": "UiPath.CefSharpBundle",
+          "Item2": "[1.6.0, )"
+        }
+      ]
+    },
+    "UiPath.FormActivityLibrary.Contracts": {
+      "Id": "UiPath.FormActivityLibrary.Contracts",
+      "Version": "1.7.0",
+      "Dependencies": []
     },
     "UiPath.ImageProcessing": {
       "Id": "UiPath.ImageProcessing",
@@ -1351,6 +1474,16 @@
   "AllPackages": [
     {
       "Package": {
+        "Id": "Castle.Core",
+        "Version": "4.3.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\mcred\\.nuget\\packages\\castle.core\\4.3.1\\lib\\net45\\Castle.Core.dll"
+      ],
+      "Path": "C:\\Users\\mcred\\.nuget\\packages\\castle.core\\4.3.1"
+    },
+    {
+      "Package": {
         "Id": "ClosedXML",
         "Version": "0.87.1"
       },
@@ -1385,8 +1518,8 @@
         "Version": "1.43.0"
       },
       "Assemblies": [
-        "C:\\Users\\mcred\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.PlatformServices.dll"
+        "C:\\Users\\mcred\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.PlatformServices.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\google.apis\\1.43.0\\lib\\net45\\Google.Apis.dll"
       ],
       "Path": "C:\\Users\\mcred\\.nuget\\packages\\google.apis\\1.43.0"
     },
@@ -1396,8 +1529,8 @@
         "Version": "1.43.0"
       },
       "Assemblies": [
-        "C:\\Users\\mcred\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.PlatformServices.dll"
+        "C:\\Users\\mcred\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.PlatformServices.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\google.apis.auth\\1.43.0\\lib\\net45\\Google.Apis.Auth.dll"
       ],
       "Path": "C:\\Users\\mcred\\.nuget\\packages\\google.apis.auth\\1.43.0"
     },
@@ -1792,6 +1925,16 @@
     },
     {
       "Package": {
+        "Id": "NamedPipeWrapper",
+        "Version": "1.5.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\mcred\\.nuget\\packages\\namedpipewrapper\\1.5.0\\lib\\net40\\NamedPipeWrapper.dll"
+      ],
+      "Path": "C:\\Users\\mcred\\.nuget\\packages\\namedpipewrapper\\1.5.0"
+    },
+    {
+      "Package": {
         "Id": "Newtonsoft.Json",
         "Version": "11.0.2"
       },
@@ -1894,10 +2037,10 @@
         "Version": "2.4.1"
       },
       "Assemblies": [
-        "C:\\Users\\mcred\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OOXML.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXml4Net.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll"
+        "C:\\Users\\mcred\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.OpenXmlFormats.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\npoi\\2.4.1\\lib\\net45\\NPOI.dll"
       ],
       "Path": "C:\\Users\\mcred\\.nuget\\packages\\npoi\\2.4.1"
     },
@@ -2153,6 +2296,19 @@
     },
     {
       "Package": {
+        "Id": "UiPath.CefSharpBundle",
+        "Version": "1.6.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib\\net452\\CefSharp.Core.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib\\net452\\CefSharp.Core.Runtime.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib\\net452\\CefSharp.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0\\lib\\net452\\CefSharp.Wpf.dll"
+      ],
+      "Path": "C:\\Users\\mcred\\.nuget\\packages\\uipath.cefsharpbundle\\1.6.0"
+    },
+    {
+      "Package": {
         "Id": "UiPath.ConnectionClient",
         "Version": "1.0.0-20210921.1"
       },
@@ -2171,11 +2327,49 @@
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.excel.activities\\2.11.4\\lib\\net461\\Microsoft.Vbe.Interop.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.excel.activities\\2.11.4\\lib\\net461\\Office.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.excel.activities\\2.11.4\\lib\\net461\\UiPath.Excel.Activities.Design.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.excel.activities\\2.11.4\\lib\\net461\\UiPath.Excel.Activities.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.excel.activities\\2.11.4\\lib\\net461\\UiPath.Excel.Activities.Package.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.excel.activities\\2.11.4\\lib\\net461\\UiPath.Excel.Activities.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.excel.activities\\2.11.4\\lib\\net461\\UiPath.Excel.dll"
       ],
       "Path": "C:\\Users\\mcred\\.nuget\\packages\\uipath.excel.activities\\2.11.4"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.Form.Activities",
+        "Version": "1.7.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities\\1.7.1\\lib\\net461\\UiPath.Callout.Activity.Design.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities\\1.7.1\\lib\\net461\\UiPath.Callout.Activity.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities\\1.7.1\\lib\\net461\\UiPath.Callout.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities\\1.7.1\\lib\\net461\\UiPath.Form.Activities.Design.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities\\1.7.1\\lib\\net461\\UiPath.Form.Activities.dll"
+      ],
+      "Path": "C:\\Users\\mcred\\.nuget\\packages\\uipath.form.activities\\1.7.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.FormActivityLibrary",
+        "Version": "1.7.1"
+      },
+      "Assemblies": [
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary\\1.7.1\\lib\\net461\\UiPath.Form.ActivityLibrary.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary\\1.7.1\\lib\\net461\\UiPath.Form.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary\\1.7.1\\lib\\net461\\UiPath.Form.Host.Local.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary\\1.7.1\\lib\\net461\\UiPath.OutOfProcessUi.Common.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary\\1.7.1\\lib\\net461\\UiPath.OutOfProcessUi.Host.WCF.exe"
+      ],
+      "Path": "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary\\1.7.1"
+    },
+    {
+      "Package": {
+        "Id": "UiPath.FormActivityLibrary.Contracts",
+        "Version": "1.7.0"
+      },
+      "Assemblies": [
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary.contracts\\1.7.0\\lib\\net461\\UiPath.Form.ActivityLibrary.Contracts.dll"
+      ],
+      "Path": "C:\\Users\\mcred\\.nuget\\packages\\uipath.formactivitylibrary.contracts\\1.7.0"
     },
     {
       "Package": {
@@ -2198,8 +2392,8 @@
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.mail.activities\\1.12.2\\lib\\net461\\Microsoft.Office.Interop.Word.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.mail.activities\\1.12.2\\lib\\net461\\Office.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.mail.activities\\1.12.2\\lib\\net461\\UiPath.Mail.Activities.Design.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.mail.activities\\1.12.2\\lib\\net461\\UiPath.Mail.Activities.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.mail.activities\\1.12.2\\lib\\net461\\UiPath.Mail.Activities.Package.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.mail.activities\\1.12.2\\lib\\net461\\UiPath.Mail.Activities.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.mail.activities\\1.12.2\\lib\\net461\\UiPath.Mail.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.mail.activities\\1.12.2\\lib\\net461\\UiPath.MainSessionServer.Shared.dll"
       ],
@@ -2269,11 +2463,11 @@
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.3\\lib\\net461\\UiPath.CV.Activities.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.3\\lib\\net461\\UiPath.CV.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.3\\lib\\net461\\UiPath.UIAutomation.Activities.Design.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.3\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.3\\lib\\net461\\UiPath.UIAutomationCore.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.3\\lib\\net461\\UiPath.UIAutomationNext.Activities.Design.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.3\\lib\\net461\\UiPath.UIAutomationNext.Activities.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.3\\lib\\net461\\UiPath.UIAutomationNext.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.3\\lib\\net461\\UiPath.UiAutomation.Activities.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.3\\lib\\net461\\UiPath.Wizards.dll"
       ],
       "Path": "C:\\Users\\mcred\\.nuget\\packages\\uipath.uiautomation.activities\\21.10.3"
@@ -2286,10 +2480,10 @@
       "Assemblies": [
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision\\3.1.4\\lib\\net461\\UiPath.Vision.AzureComputerVision.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision\\3.1.4\\lib\\net461\\UiPath.Vision.Core.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision\\3.1.4\\lib\\net461\\UiPath.Vision.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision\\3.1.4\\lib\\net461\\UiPath.Vision.GoogleCloud.dll",
         "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision\\3.1.4\\lib\\net461\\UiPath.Vision.Microsoft.dll",
-        "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision\\3.1.4\\lib\\net461\\UiPath.Vision.Tesseract.dll"
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision\\3.1.4\\lib\\net461\\UiPath.Vision.Tesseract.dll",
+        "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision\\3.1.4\\lib\\net461\\UiPath.Vision.dll"
       ],
       "Path": "C:\\Users\\mcred\\.nuget\\packages\\uipath.vision\\3.1.4"
     }
