@@ -74,6 +74,11 @@
       </ui:LogMessage.Message>
     </ui:LogMessage>
     <ui:BulkAddQueueItems TimeoutMS="{x:Null}" DisplayName="Bulk Add Queue Items" sap:VirtualizedContainerService.HintSize="334,132" sap2010:WorkflowViewState.IdRef="BulkAddQueueItems_1">
+      <ui:BulkAddQueueItems.FolderPath>
+        <InArgument x:TypeArguments="x:String">
+          <mca:CSharpValue x:TypeArguments="x:String" sap2010:WorkflowViewState.IdRef="CSharpValue`1_7">in_Config["OrchestratorQueueFolder"].ToString()</mca:CSharpValue>
+        </InArgument>
+      </ui:BulkAddQueueItems.FolderPath>
       <ui:BulkAddQueueItems.QueueItemsDataTable>
         <InArgument x:TypeArguments="sd:DataTable">
           <mca:CSharpValue x:TypeArguments="sd:DataTable" sap2010:WorkflowViewState.IdRef="CSharpValue`1_5">in_TransactionItem</mca:CSharpValue>
