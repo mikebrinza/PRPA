@@ -80,7 +80,7 @@
     <If sap:VirtualizedContainerService.HintSize="871,711" sap2010:WorkflowViewState.IdRef="If_2">
       <If.Condition>
         <InArgument x:TypeArguments="x:Boolean">
-          <mca:CSharpValue x:TypeArguments="x:Boolean" sap2010:WorkflowViewState.IdRef="CSharpValue`1_18">in_TransactionNumber &lt; io_dt_TransactionData.Count</mca:CSharpValue>
+          <mca:CSharpValue x:TypeArguments="x:Boolean" sap2010:WorkflowViewState.IdRef="CSharpValue`1_21">in_TransactionNumber &lt;= io_dt_TransactionData.Count</mca:CSharpValue>
         </InArgument>
       </If.Condition>
       <If.Then>
