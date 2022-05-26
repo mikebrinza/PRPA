@@ -6370,9 +6370,9 @@
     "restore": {
       "projectUniqueName": "tst.transaction.batch.handling.dispatcher",
       "projectName": "tst.transaction.batch.handling.dispatcher",
-      "projectPath": "C:\\Users\\mcred\\Desktop\\RPA\\learningRPA\\examples\\testingTransactionBatchHandling\\.local",
+      "projectPath": "D:\\Projects\\gitHubbedPJ\\PRPA\\tst.transaction.batch.handling\\tst.transaction.batch.handling,dispatcher\\.local",
       "packagesPath": "C:\\Users\\mcred\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mcred\\Desktop\\RPA\\learningRPA\\examples\\testingTransactionBatchHandling\\.local"
+      "outputPath": "D:\\Projects\\gitHubbedPJ\\PRPA\\tst.transaction.batch.handling\\tst.transaction.batch.handling,dispatcher\\.local"
     },
     "frameworks": {
       "net461": {
