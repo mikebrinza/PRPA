@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "QSSJ47ZKhxSkTfxupGLXl8TGNp9pI2Vpx7+1tOcOc4w72Xvc5d3bvaBvH06aE7awNVKzcKxtOeXOivPuwX0KJA==",
+  "dgSpecHash": "005W/VLsFmZKQr4tbZ8Jfj75QQCLuPYruGzUmqwUUESmioflaznvwx3Z95/BO5XUirPgnIeotaKfg2Ph/qILFw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\mcred\\Desktop\\RPA\\learningRPA\\examples\\testingTransactionBatchHandling\\.local\\",
+  "projectFilePath": "D:\\Projects\\gitHubbedPJ\\PRPA\\tst.transaction.batch.handling\\tst.transaction.batch.handling,dispatcher\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\mcred\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\mcred\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
